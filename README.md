@@ -1,3 +1,4 @@
 # Testes_Iniciais
 Testes iniciais de código básicos de diferentes sistemas.
-O gaoter_pilot, teste de movimentação do drone, está no diretório scripts.
+
+Teste de movimentação do drone -> scripts/gapter_pilot_thread.py.
